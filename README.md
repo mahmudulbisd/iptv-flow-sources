@@ -9,7 +9,6 @@
 | ফাইল | চ্যানেল | বিবরণ |
 |------|---------|-------|
 | [mahmud-picks.m3u](./mahmud-picks.m3u) | ২২৪+ | পার্সোনাল কিউরেটেড কালেকশন |
-| [IPTV-Flow Special.m3u](./IPTV-Flow%20Special.m3u) | - | বিশেষ সংকলন |
 
 ---
 
