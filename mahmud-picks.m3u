@@ -1,5 +1,9 @@
 #EXTM3U x-tvg-url=""
 
+#EXTINF:-1 tvg-name="Somoy TV New" group-title="Bangladesh",Somoy TV New
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-name="Stream 32" group-title="Sports",Stream 32
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1 tvg-name="FIFA 2026 — BTV" tvg-logo="" group-title="Football World Cup 2026",FIFA 2026 — BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-name="FIFA 2026 — T Sports" tvg-logo="" group-title="Football World Cup 2026",FIFA 2026 — T Sports
