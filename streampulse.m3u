@@ -383,3 +383,5 @@ https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Legislative",Sansad TV 2
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
+#EXTINF:-1 tvg-name="Star News BD" tvg-logo="https://abusaeeidx.github.io/bd-tv-logo/logos/star-news.jpg" group-title="Bangladesh",Star News BD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
