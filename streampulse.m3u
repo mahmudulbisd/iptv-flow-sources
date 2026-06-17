@@ -13,6 +13,77 @@ https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-name="Caze TV 4K" tvg-logo="" group-title="⚽ FIFA Special 4K",Caze TV 4K
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://abusaeeidx.github.io/bd-tv-logo/logos/somoy-tv.jpg" group-title="Bangladesh",Somoy TV
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 tvg-name="FIFA+ Stream 1" tvg-logo="" group-title="⚽ FIFA Special",FIFA+ Stream 1
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+
+#EXTINF:-1 tvg-name="FIFA+ Stream 2" tvg-logo="" group-title="⚽ FIFA Special",FIFA+ Stream 2
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1 tvg-name="FIFA+ English (Samsung)" tvg-logo="" group-title="⚽ FIFA Special",FIFA+ English (Samsung)
+https://c822c659.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/a4288c44-0852-418a-874a-6068c1f660a7/2.m3u8
+
+#EXTINF:-1 tvg-name="SPL Saudi Sports" tvg-logo="" group-title="Sports",SPL Saudi Sports
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="OM Sport" tvg-logo="" group-title="Sports",OM Sport
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Sports One" tvg-logo="" group-title="Sports",Sports One
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="World of Free Sports" tvg-logo="" group-title="Sports",World of Free Sports
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports Español" tvg-logo="https://abusaeeidx.github.io/bd-tv-logo/logos/bein-sports-1.jpg" group-title="Sports",beIN Sports Español
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-name="Akash Fighter" tvg-logo="" group-title="Sports",Akash Fighter
+https://nomawnoijl.gpcdn.net/akash/fighter/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Akash Sports Legends" tvg-logo="" group-title="Sports",Akash Sports Legends
+https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Akash Flash" tvg-logo="" group-title="Sports",Akash Flash
+https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Akash Sport Range" tvg-logo="" group-title="Sports",Akash Sport Range
+https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RMTV España" tvg-logo="" group-title="Sports",RMTV España
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-name="RMTV English" tvg-logo="" group-title="Sports",RMTV English
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-name="PiShow Sports" tvg-logo="" group-title="Sports",PiShow Sports
+https://cdn-6.pishow.tv/live/13/master.m3u8
+
+#EXTINF:-1 tvg-name="Free Stream 1" tvg-logo="" group-title="International",Free Stream 1
+https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Stirr TV" tvg-logo="" group-title="International",Stirr TV
+https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Plex TV" tvg-logo="" group-title="International",Plex TV
+https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist_640x360.m3u8
+
+#EXTINF:-1 tvg-name="Free Stream 2" tvg-logo="" group-title="International",Free Stream 2
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
+
+#EXTINF:-1 tvg-name="Free Stream 3" tvg-logo="" group-title="International",Free Stream 3
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+
+#EXTINF:-1 tvg-name="Free Stream 4" tvg-logo="" group-title="International",Free Stream 4
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
+
+#EXTINF:-1 tvg-name="MTS Web" tvg-logo="" group-title="International",MTS Web
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Xumo Entertainment" tvg-logo="" group-title="International",Xumo Entertainment
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football World Cup 2026",FIFA 2026 — BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football World Cup 2026",FIFA 2026 — Somoy TV
