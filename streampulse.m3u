@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="RTB GO" tvg-logo="" group-title="FIFA Special",RTB GO
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh",Somoy TV New
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 ,Caze TV
