@@ -4,9 +4,9 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
 #EXTINF:-1 tvg-name="RTB Go Live ⚽" tvg-logo="https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png" group-title="FIFA Special",RTB Go Live ⚽
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
 #EXTINF:-1 tvg-name="FUSSBALL.TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png" group-title="⚽ FIFA Special",FUSSBALL.TV 1
-http://starhub.pro/live/farhat-3379/67897-913379/745269.m3u8
+http:\\starhub.pro\live\farhat-3379\67897-913379\745269.ts
 #EXTINF:-1 tvg-name="FUSSBALL.TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png" group-title="⚽ FIFA Special",FUSSBALL.TV 2
-http://starhub.pro/live/farhat-3379/67897-913379/745270.m3u8
+http:\\starhub.pro\live\farhat-3379\67897-913379\745270.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh",Somoy TV New
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
