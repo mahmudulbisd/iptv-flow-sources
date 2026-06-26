@@ -13,10 +13,6 @@
 #
 # Last Updated: June 2026
 # ════════════════════════════════════
-#EXTINF:-1 tvg-name="RTB Go Live ⚽" tvg-logo="https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png" group-title="FIFA Special",RTB Go Live ⚽
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh",Somoy TV New
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-name="FIFA Special 4K — DAZN" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg" group-title="⚽ FIFA Special",FIFA Special 4K — Stream 1
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 #EXTINF:-1 tvg-name="FIFA Special 4K — WIN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC3EiwxKm4S7whSxEPwHSdWiuyaG7mzF065GAwkcexEt19ylZjd1wUUi4&s=10" group-title="⚽ FIFA Special 4K",FIFA Special 4K — Stream 2
