@@ -1,5 +1,6 @@
 #EXTM3U x-tvg-url=""
-
+#EXTINF:-1 tvg-name="Bein Sports 4K" tvg-logo="https://abusaeeidx.github.io/bd-tv-logo/logos/bein-sports-1.jpg" group-title="⚽ FIFA Special",Bein Sports 4K
+https://pub-4aa1aaf3896e4dd0923f238800b68845.r2.dev/kickbd-bein4k/main.m3u8
 #EXTINF:-1 tvg-name="Somoy TV New" group-title="Bangladesh",Somoy TV New
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-name="FUSSBALL.TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png" group-title="⚽ FIFA Special",FUSSBALL.TV 1
