@@ -13,8 +13,10 @@
 #
 # Last Updated: June 2026
 # ════════════════════════════════════
-#EXTINF:-1 tvg-name="FIFA PPV 1 (PLDT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png" group-title="⚽ FIFA Special",FIFA PPV 1 (PLDT)
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/dash/fifa_ppv1.mpd
+#EXTINF:-1 tvg-name="Bein Sports 4K (KickBD)" tvg-logo="https://abusaeeidx.github.io/bd-tv-logo/logos/bein-sports-1.jpg" group-title="⚽ FIFA Special",Bein Sports 4K (KickBD)
+https://tv.motiur.xyz/api/proxy.php?url=https%3A%2F%2Fpub-4aa1aaf3896e4dd0923f238800b68845.r2.dev%2Fkickbd-bein4k%2Fmain.m3u8
+#EXTINF:-1 tvg-name="FOX USA" tvg-logo="" group-title="[Gen] General",FOX USA
+https://cdn011.viaplus.site/fox-usa.m3u8
 #EXTINF:-1 tvg-name="FIFA Special 4K Stream 2" tvg-logo="" group-title="⚽ FIFA Special",FIFA Special 4K Stream 2
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1 tvg-name="FIFA Special 4K Stream 3" tvg-logo="" group-title="⚽ FIFA Special",FIFA Special 4K Stream 3
