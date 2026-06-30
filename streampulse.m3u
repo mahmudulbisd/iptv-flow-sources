@@ -13,9 +13,9 @@
 #
 # Last Updated: June 2026
 # ════════════════════════════════════
-#EXTINF:-1 tvg-name="26 FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png" group-title="⚽ FIFA Special",
+#EXTINF:-1 tvg-name="26 FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png" group-title="⚽ FIFA Special",26 FS1
 https://tv.motiur.xyz/api/proxy.php?url=https%3A%2F%2Fpub-4aa1aaf3896e4dd0923f238800b68845.r2.dev%2Fkickbd-bein4k%2Fmain.m3u8
-#EXTINF:-1 tvg-name="FOX USA" tvg-logo="" group-title="[Gen] General",FOX USA
+#EXTINF:-1 tvg-name="FOX USA" tvg-logo="" group-title="⚽ FIFA Special",FOX USA
 https://cdn011.viaplus.site/fox-usa.m3u8
 #EXTINF:-1 tvg-name="FIFA Special 4K Stream 2" tvg-logo="" group-title="⚽ FIFA Special",FIFA Special 4K Stream 2
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
