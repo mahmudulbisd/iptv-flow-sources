@@ -14,14 +14,10 @@
 # Last Updated: June 2026
 # ════════════════════════════════════
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/2026_FIFA_World_Cup_emblem.svg/200px-2026_FIFA_World_Cup_emblem.svg.png" group-title="⚽ FIFA Special",FIFA WC 2026 - BD Live HD
-https://iptv-flow-proxy.mahmud-752.workers.dev?url=http://fifabangladesh.top/BRAZIL2/LIVE/play.m3u8?q=1300
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-1-uk.png" group-title="⚽ FIFA Special",SKY Sports WC HD [UK]
-https://ranapkbd.site/JOIN@RANAPK33/XT/SKY/play.m3u8?id=340019
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="⚽ FIFA Special",FOX Sports WC 1 HD [USA]
-https://ranapkbd.site/JOIN@RANAPK33/XT/X/play.m3u8?id=135359
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="⚽ FIFA Special",FOX Sports WC 2 HD [USA]
-https://ranapkbd.site/JOIN@RANAPK33/XT/X/play.m3u8?id=135363
+#EXTINF:-1 tvg-id="SomoyTV.bd" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bangladesh/somoy-tv-bd.png" group-title="[BD] Bangladesh",Somoy TV
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BS1 Live" tvg-logo="" group-title="[BD] Bangladesh",BS1 Live
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="⚽ FIFA Special",Caze TV 4K
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ FIFA Special",FIFA 2026 — TYC Sports
